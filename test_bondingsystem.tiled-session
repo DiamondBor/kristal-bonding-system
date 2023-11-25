@@ -1,0 +1,184 @@
+{
+    "activeFile": "scripts/world/maps/room1.tmx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "C:/Users/T/AppData/Roaming/LOVE/kristal/Chapter 1 Recreation Mod/scripts/world/maps/LIGHT_WORLD/Night/Hometown/room_school_top/data.tmx": {
+            "scale": 1.0151209677419355,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 620.1231380337636,
+                "y": 240.36544190665342
+            }
+        },
+        "C:/Users/T/AppData/Roaming/LOVE/kristal/Chapter 1 Recreation Mod/scripts/world/maps/LIGHT_WORLD/Night/Hometown/room_town_alley/data.tmx": {
+            "scale": 1.7654166666666666,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 320.32098182676424,
+                "y": 240.16993155534576
+            }
+        },
+        "C:/Users/T/AppData/Roaming/LOVE/kristal/Chapter 1 Recreation Mod/scripts/world/tilesets/hometown_night_obj.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/T/AppData/Roaming/LOVE/kristal/Chapter 1 Recreation Mod/scripts/world/tilesets/hometown_obj.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/T/AppData/Roaming/LOVE/kristal/Chapter 1 Recreation Mod/scripts/world/tilesets/schooltiles_night.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/T/AppData/Roaming/LOVE/kristal/mods/Dark-Place/scripts/world/maps/devhotel/devdiner/devroom/devroom.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 704.6666666666666,
+                "y": 281.33333333333337
+            }
+        },
+        "C:/Users/T/AppData/Roaming/LOVE/kristal/mods/Dark-Place/scripts/world/maps/floor2/lounge.tmx": {
+            "scale": 1.3240625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 420.2973802218551,
+                "y": 320.2265754071277
+            }
+        },
+        "C:/Users/T/AppData/Roaming/LOVE/kristal/mods/Dark-Place/scripts/world/maps/room1/room1.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 4587.333333333333,
+                "y": 4576
+            }
+        },
+        "C:/Users/T/AppData/Roaming/LOVE/kristal/mods/Dark-Place/scripts/world/tilesets/castle.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/T/AppData/Roaming/LOVE/kristal/mods/Dark-Place/scripts/world/tilesets/castle_1f.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/T/AppData/Roaming/LOVE/kristal/mods/Dark-Place/scripts/world/tilesets/devroom-objects.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/T/AppData/Roaming/LOVE/kristal/mods/Dark-Place/scripts/world/tilesets/devroom.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/T/AppData/Roaming/LOVE/kristal/mods/_testmod/scripts/world/maps/16x16test.tmx": {
+            "scale": 1.7654166666666666,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 320.32098182676424,
+                "y": 240.16993155534576
+            }
+        },
+        "C:/Users/T/AppData/Roaming/LOVE/kristal/mods/_testmod/scripts/world/tilesets/smw.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/T/AppData/Roaming/LOVE/kristal/mods/anotherune/scripts/world/maps/deltarune/room_school_lobby/data.tmx": {
+            "scale": 0.6555989583333333,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 960.1906653426018,
+                "y": 420.9890764647468
+            }
+        },
+        "C:/Users/T/AppData/Roaming/LOVE/kristal/mods/anotherune/scripts/world/tilesets/schooltiles.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/T/AppData/Roaming/LOVE/kristal/mods/anotherune/tilesets/objects.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/T/AppData/Roaming/LOVE/kristal/mods/anotherune/tilesets/schooltiles.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/T/AppData/Roaming/LOVE/kristal/mods/anotherune/tilesets/schooltiles_night.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/T/AppData/Roaming/LOVE/kristal/mods/chorospectra/scripts/world/maps/empty.tmx": {
+            "scale": 0.8827083333333333,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 400.4720320981827,
+                "y": 480.3398631106915
+            }
+        },
+        "C:/Users/T/AppData/Roaming/LOVE/kristal/mods/chorospectra/scripts/world/maps/room1.tmx": {
+            "scale": 0.8827083333333333,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 400.4720320981827,
+                "y": 480.3398631106915
+            }
+        },
+        "C:/Users/T/AppData/Roaming/LOVE/kristal/mods/chorospectra/scripts/world/tilesets/castle.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/T/AppData/Roaming/LOVE/kristal/mods/library_testing/scripts/world/maps/room1.tmx": {
+            "scale": 0.8827083333333333,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 400.4720320981827,
+                "y": 480.3398631106915
+            }
+        },
+        "C:/Users/T/AppData/Roaming/LOVE/kristal/mods/library_testing/scripts/world/tilesets/towntiles.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "scripts/world/maps/room1.tmx": {
+            "expandedObjectLayers": [
+                4
+            ],
+            "scale": 0.75,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 311.33333333333337,
+                "y": 537.3333333333334
+            }
+        },
+        "scripts/world/tilesets/castle.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "scripts/world/tilesets/towntiles.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/T/AppData/Roaming/LOVE/kristal/mods/chorospectra/scripts/world/maps",
+    "last.externalTilesetPath": "C:/Users/T/AppData/Roaming/LOVE/kristal/mods/library_testing/scripts/world/tilesets",
+    "last.imagePath": "C:/Users/T/AppData/Roaming/LOVE/kristal/mods/anotherune/assets/sprites/tilesets",
+    "lastUsedTilesetExportFilter": "Lua files (*.lua)",
+    "loadedWorlds": [
+        "C:/Users/T/AppData/Roaming/LOVE/kristal/mods/Dark-Place/scripts/world/Dark-Place.world",
+        "C:/Users/T/AppData/Roaming/LOVE/kristal/mods/Dark-Place/scripts/world/Floor2.world"
+    ],
+    "map.lastUsedExportFilter": "All Files (*)",
+    "openFiles": [
+        "scripts/world/maps/room1.tmx"
+    ],
+    "project": "test_bondingsystem.tiled-project",
+    "recentFiles": [
+        "scripts/world/maps/room1.tmx",
+        "C:/Users/T/AppData/Roaming/LOVE/kristal/mods/Dark-Place/scripts/world/maps/room1/room1.tmx",
+        "C:/Users/T/AppData/Roaming/LOVE/kristal/mods/Dark-Place/scripts/world/maps/devhotel/devdiner/devroom/devroom.tmx",
+        "C:/Users/T/AppData/Roaming/LOVE/kristal/mods/Dark-Place/scripts/world/maps/floor2/lounge.tmx",
+        "C:/Users/T/AppData/Roaming/LOVE/kristal/mods/anotherune/scripts/world/tilesets/schooltiles.tsx",
+        "C:/Users/T/AppData/Roaming/LOVE/kristal/mods/anotherune/scripts/world/maps/deltarune/room_school_lobby/data.tmx",
+        "C:/Users/T/AppData/Roaming/LOVE/kristal/Chapter 1 Recreation Mod/scripts/world/maps/LIGHT_WORLD/Night/Hometown/room_town_alley/data.tmx",
+        "C:/Users/T/AppData/Roaming/LOVE/kristal/Chapter 1 Recreation Mod/scripts/world/maps/LIGHT_WORLD/Night/Hometown/room_school_top/data.tmx",
+        "C:/Users/T/AppData/Roaming/LOVE/kristal/mods/chorospectra/scripts/world/maps/empty.tmx",
+        "C:/Users/T/AppData/Roaming/LOVE/kristal/mods/chorospectra/scripts/world/maps/room1.tmx",
+        "C:/Users/T/AppData/Roaming/LOVE/kristal/mods/_testmod/scripts/world/maps/16x16test.tmx",
+        "C:/Users/T/AppData/Roaming/LOVE/kristal/mods/library_testing/scripts/world/tilesets/towntiles.tsx"
+    ],
+    "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 40,
+        "width": 40
+    }
+}
